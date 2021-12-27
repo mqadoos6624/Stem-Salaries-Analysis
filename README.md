@@ -3,7 +3,7 @@
 The purpose of this project is to analyze the STEM salries trend in IT industry. I make use of the public data avaialble on Kaggle.
 
 ***Setup:     
-           **First imported and loaded the data.
+           ##First imported and loaded the data.
            **Then we have performed the initital preprocessing and clean the data by removing the outliers and removed NULL values.
            **I have analayze the trend between base-salary and "Education, Gender, State, Companies" and other attributes.
                 *1. Analyzed the trend between base-salary and Education to compare base-salary based on level of Education.
@@ -27,4 +27,4 @@ The purpose of this project is to analyze the STEM salries trend in IT industry.
                  *1. I have estimated the base-salary using the desire attributes and got accuracy of 85%.
              
              
-                                                                          ****** End ******
+                                                                  ****** End ******
