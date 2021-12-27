@@ -2,7 +2,7 @@
 
 The purpose of this project is to analyze the STEM salries trend in IT industry. I make use of the public data avaialble on Kaggle.
 
-Markup: * Setup:     
+# Setup:     
                     * First imported and loaded the data.
            **Then we have performed the initital preprocessing and clean the data by removing the outliers and removed NULL values.
            **I have analayze the trend between base-salary and "Education, Gender, State, Companies" and other attributes.
