@@ -1,6 +1,6 @@
 # Stem-Salaries-Analysis
 
-The purpose of this project is to analyze the STEM salaries trend in IT industry. I make use of the public data avaialble on Kaggle.
+The purpose of this project is to analyze the STEM salaries trend in IT industry by making use of public data avaialble on Kaggle.
 
 ### Setup:     
     First imported and loaded the data.
